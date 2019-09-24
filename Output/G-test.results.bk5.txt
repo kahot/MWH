@@ -1,0 +1,6 @@
+Significant probe numbers  A.vs.B 
+[1] "20" "24" "27" "29" "32" "41"
+Significant probe numbers  A.vs.C 
+[1] "10" "21" "27" "29" "32"
+Significant probe numbers  B.vs.C 
+[1] "10" "20" "39" "40"
